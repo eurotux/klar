@@ -3,24 +3,6 @@
 	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "H1CjsPDh9Z1blqsqJIJ+EUfQEeo=",
-			"path": "github.com/quay/clair/api/v3/clairpb",
-			"revision": "b1cd09231990e44bc3376f95dcb94e2c3026a1ec",
-			"revisionTime": "2018-07-17T23:57:26Z"
-		},
-		{
-			"checksumSHA1": "iPtWcXdYFZAMGNjro3z3nX5qYD4=",
-			"path": "github.com/quay/clair/database",
-			"revision": "b1cd09231990e44bc3376f95dcb94e2c3026a1ec",
-			"revisionTime": "2018-07-17T23:57:26Z"
-		},
-		{
-			"checksumSHA1": "VMxfZpMDX8d4KZD96K9/RXRULtU=",
-			"path": "github.com/quay/clair/ext/versionfmt",
-			"revision": "b1cd09231990e44bc3376f95dcb94e2c3026a1ec",
-			"revisionTime": "2018-07-17T23:57:26Z"
-		},
-		{
 			"checksumSHA1": "ITzWX1LucDMHcZh509uUwc920KY=",
 			"origin": "github.com/quay/clair/vendor/github.com/golang/protobuf/jsonpb",
 			"path": "github.com/golang/protobuf/jsonpb",
@@ -98,6 +80,24 @@
 			"path": "github.com/grpc-ecosystem/grpc-gateway/utilities",
 			"revision": "1425086670521ed5510e5dadd5e0b374d33e0b87",
 			"revisionTime": "2017-11-28T22:15:06Z"
+		},
+		{
+			"checksumSHA1": "LEm39valeB6+IEkqEiBSqy7bRz0=",
+			"path": "github.com/quay/clair/api/v3/clairpb",
+			"revision": "b1cd09231990e44bc3376f95dcb94e2c3026a1ec",
+			"revisionTime": "2018-07-17T23:57:26Z"
+		},
+		{
+			"checksumSHA1": "SQVt5dieyMZDvecxfzb1UP/Kguo=",
+			"path": "github.com/quay/clair/database",
+			"revision": "b1cd09231990e44bc3376f95dcb94e2c3026a1ec",
+			"revisionTime": "2018-07-17T23:57:26Z"
+		},
+		{
+			"checksumSHA1": "Shv6OL/yUyD//TUoWj6PAYR6qoM=",
+			"path": "github.com/quay/clair/ext/versionfmt",
+			"revision": "b1cd09231990e44bc3376f95dcb94e2c3026a1ec",
+			"revisionTime": "2018-07-17T23:57:26Z"
 		},
 		{
 			"checksumSHA1": "Wma1ByOP+f4o3I2q1WIuMSuEoCI=",
