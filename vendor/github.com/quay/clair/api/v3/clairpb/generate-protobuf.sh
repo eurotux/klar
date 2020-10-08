@@ -18,7 +18,7 @@ set -o errexit
 set -o nounset
 set -o pipefail
 
-DOCKER_REPO_ROOT="$GOPATH/src/github.com/coreos/clair"
+DOCKER_REPO_ROOT="$GOPATH/src/github.com/quay/clair"
 IMAGE=${IMAGE:-"quay.io/coreos/clair-gen-proto"}
 
 docker run --rm -it \
