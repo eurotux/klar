@@ -18,8 +18,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/coreos/clair/database"
-	"github.com/coreos/clair/ext/versionfmt"
+	"github.com/quay/clair/database"
+	"github.com/quay/clair/ext/versionfmt"
 )
 
 // PagedVulnerableAncestriesFromDatabaseModel converts database
