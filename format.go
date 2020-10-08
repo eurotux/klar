@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/olekukonko/tablewriter"
-	"github.com/optiopay/klar/clair"
+	"github.com/eurotux/klar/clair"
 )
 
 var SeverityStyle = map[string]string{
